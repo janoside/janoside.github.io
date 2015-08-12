@@ -1,3 +1,7 @@
+---
+title: Salmon Croquettes
+---
+
 ![Salmon Croquettes](https://janoside.github.io/random/images/salmon-croquettes.jpg)
 
 # Salmon Croquettes 
