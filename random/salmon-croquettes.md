@@ -1,4 +1,4 @@
-![Salmon Croquettes](https://janoside.github.io/random/images/salmon-croquettes.png)
+![Salmon Croquettes](https://janoside.github.io/random/images/salmon-croquettes.jpg)
 
 # Salmon Croquettes 
 
