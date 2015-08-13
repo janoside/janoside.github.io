@@ -5,7 +5,7 @@ tags : [recipes]
 ---
 {% include JB/setup %}
 
-## Salmon Croquettes
+![Salmon Croquettes](https://github.com/janoside/janoside.github.io/blob/master/assets/images/salmon-croquettes.jpg?raw=true)
 
 ### Ingredients
 
