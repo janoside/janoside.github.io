@@ -16,7 +16,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 	</li>
 </ul>
 
-# Posts
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
