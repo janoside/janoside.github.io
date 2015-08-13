@@ -7,11 +7,9 @@ tags : [recipes]
 
 ![Summer Vegetable Tian](https://github.com/janoside/janoside.github.io/blob/master/assets/images/summer-vegetable-tian.jpg?raw=true)
 
-Prep time: 15 mins
-Cook time: 45 mins
-Total time: 1 hour
-Total Cost: $6.60
-Serves: 6
+* Total time: 1 hour (15 min prep, 45 min cook)
+* Cost: $6.60
+* Serves: 6
 
 ### Ingredients
 
